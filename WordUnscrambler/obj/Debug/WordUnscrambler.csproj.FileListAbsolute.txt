@@ -1,0 +1,7 @@
+C:\Users\itsou\Dropbox\PeopleCert\Udemy - learn-csharp-by-building-applications\Codes\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csprojAssemblyReference.cache
+C:\Users\itsou\Dropbox\PeopleCert\Udemy - learn-csharp-by-building-applications\Codes\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.CoreCompileInputs.cache
+C:\Users\itsou\Dropbox\PeopleCert\Udemy - learn-csharp-by-building-applications\Codes\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+C:\Users\itsou\Dropbox\PeopleCert\Udemy - learn-csharp-by-building-applications\Codes\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+C:\Users\itsou\Dropbox\PeopleCert\Udemy - learn-csharp-by-building-applications\Codes\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+C:\Users\itsou\Dropbox\PeopleCert\Udemy - learn-csharp-by-building-applications\Codes\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+C:\Users\itsou\Dropbox\PeopleCert\Udemy - learn-csharp-by-building-applications\Codes\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
